@@ -11,6 +11,6 @@ router.post("/api/auth/reset-password",resetPassword)
 router.post("/api/auth/change-password",changePassword)
 // email verification route
 
-router.get("/api/auth/verify-email/:token")
+// router.get("/api/auth/verify-email/:token")
 
 export default router;

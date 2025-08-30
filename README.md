@@ -1,4 +1,4 @@
-# Auth API
+# Auth API(Still under development....)
 
 A secure authentication API built with Node.js, Express, TypeScript, JWT, and MongoDB.  
 Includes refresh tokens, email verification, forgot/reset password, and Swagger documentation.
